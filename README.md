@@ -1,4 +1,3 @@
-# test
 # Public Advanced(중급반)
 
 중급반 학생을 위한 프로젝트 폴더
